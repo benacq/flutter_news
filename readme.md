@@ -1,5 +1,6 @@
 ## About the app
 video demo link file:///G:/quodeHub/newsapp/index.html/
+
 video file https://github.com/benacq/flutter_news/tree/master/demo
 
 This app was structured the app into 3 main sections, namely
