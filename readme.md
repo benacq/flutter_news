@@ -1,4 +1,4 @@
-## How it works
+## About the app
 
 This app was structured the app into 3 main sections, namely
 1.	Views
