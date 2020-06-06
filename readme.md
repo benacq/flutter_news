@@ -1,7 +1,9 @@
-## About the app
+# Video Demo
 video demo link https://benacq.github.io/flutter_news/
 
 video file https://github.com/benacq/flutter_news/tree/master/demo
+
+# About the app
 
 This app was structured the app into 3 main sections, namely
 1.	Views
