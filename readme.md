@@ -4,6 +4,7 @@ This app was structured the app into 3 main sections, namely
 1.	Views
 2.	Services
 3.	Models
+
 The views section has to do with the user interface and design of the app with no business logic.
 There are two main views in the app which are the first screen which list the news and the second which provides the details of an individual news when tapped.
 The services section provides the backend services such as making API calls to the provided endpoint to fetch the news data.
