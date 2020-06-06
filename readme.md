@@ -10,8 +10,8 @@ There are two main views in the app which are the first screen which list the ne
 
 The __services__ section provides the backend services such as making API calls to the provided endpoint to fetch the news data.
 
-The __models__ section contains a class that processes and convert JSON data returned by the API get request into a custom Dart object which makes it quite easy the work with within the app.
-Inspecting the JSON response from the API I noticed that not all the values were plain text, some were wrapped with html elements, I parsed the html within the app so it can display as it would in a browser.
+The __models__ section contains a class that processes and convert JSON response from the API into a custom Dart object which makes it quite easy the work with within the app.
+Inspecting the JSON response I notices some values were wrapped with html elements which would display as plain text if not rendered.
 The JSON response was converted to a stream which constantly listens to changes on the endpoint and reflects immediately inside the app, making the app real-time.
 
 ## How it works
