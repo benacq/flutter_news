@@ -1,5 +1,5 @@
 ## About the app
-video demo link file:///G:/quodeHub/newsapp/index.html/
+video demo link https://benacq.github.io/flutter_news/
 
 video file https://github.com/benacq/flutter_news/tree/master/demo
 
