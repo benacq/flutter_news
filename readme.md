@@ -1,4 +1,5 @@
 ## About the app
+video demo link https://benacq.github.io/covidapp/
 
 This app was structured the app into 3 main sections, namely
 1.	Views
